@@ -1,0 +1,31 @@
+1)
+
+Vytvorte nasledujici strukturu:
+
+C:\Prvni test
+C:\Prvni test\1
+C:\Prvni test\1\1
+C:\Prvni test\1\2
+...
+C:\Prvni test\1\10
+C:\Prvni test\2
+C:\Prvni test\2\2
+C:\Prvni test\2\3
+...
+C:\Prvni test\2\10
+C:\Prvni test\3
+C:\Prvni test\3\3
+C:\Prvni test\3\4
+...
+C:\Prvni test\3\10
+...
+C:\Prvni test\10
+
+Do kazdeho adresare nakopirujte soubor: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+
+
+2) 
+-Vytvorte archiv z uvedene cesty. Pokud nepujde nejvyssi adresar, tak zkusit archivovat po podadresarich
+-Jednotlive kroky at se vypisuji do konzole.
+-Vytvorte funkci a instalujte ji do pocitace, at neni treba spoustet skript ale funkce bude dostupna z powershelu
